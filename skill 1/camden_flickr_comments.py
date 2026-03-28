@@ -15,8 +15,8 @@ import time
 # -----------------------------
 # 1. Flickr API key
 # -----------------------------
-API_KEY = "780788846036b2332b8af4422d84afa6"
-API_SECRET = "2c43e34b026e02ad"
+API_KEY = ""
+API_SECRET = ""
 
 flickr = flickrapi.FlickrAPI(API_KEY, API_SECRET, format='parsed-json')
 
